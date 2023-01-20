@@ -8,6 +8,9 @@ I will keep updating this list of crates/libraries with examples to alleviate co
 std::io - File I/O
 
 csv - Reading and Writing csv files
+
 flate2 - gzip, zlib compression and decompression
+
 ndarray - Arrays
+
 ndarray_csv - Converts csv to ndarray
