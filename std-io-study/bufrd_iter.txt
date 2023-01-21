@@ -1,0 +1,5 @@
+What type of text are you searching for? Conversational, articles, books - or a good spread of everything?
+
+Project Gutenberg might be a good start: http://www.gutenberg.org/
+
+Wikipedia also allows you to download an archive of articles: http://en.wikipedia.org/wiki/Wikipedia:Database_download
